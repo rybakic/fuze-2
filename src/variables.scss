@@ -1,0 +1,45 @@
+/* Variables and mixins declared here will be available in all other SCSS files */
+$primary: #0F55B9;
+$primary_pulse: #a2c3f1;
+$red: #F44336;
+$light_red: #fcf0f0;
+$orange:  #E5872B;
+$light_orange: #faf0e6;
+$shadow: 0 2px 12px 0 rgba(93,107,186,.1);
+
+$default-light: rgba(255, 255, 255, 1);
+$red-light: rgba(255, 59, 48, 1);
+$orange-light: rgba(255, 149, 0, 1);
+$yellow-light: rgba(255, 204, 0, 1);
+$green-light: rgba(52, 199, 89, 1);
+$teal-light: rgba(90, 200, 250, 1);
+$blue-light: rgba(0, 122, 255, 1);
+$indigo-light: rgba(88, 86, 214, 1);
+$purple-light: rgba(175, 82, 222, 1);
+$pink-light: rgba(255, 45, 85, 1);
+$gray-light: rgba(142, 142, 147, 1);
+$gray-2-light: rgba(174, 174, 178, 1);
+$gray-3-light: rgba(199, 199, 204, 1);
+$gray-4-light: rgba(209, 209, 214, 1);
+$gray-5-light: rgba(229, 229, 234, 1);
+$gray-6-light: rgba(242, 242, 247, 1);
+
+$default-dark: rgba(0, 0, 0, 1);
+$red-dark: rgba(215, 0, 21, 1);
+$orange-dark: rgba(201, 52, 0, 1);
+$yellow-dark: rgba(178, 80, 0, 1);
+$green-dark: rgba(36, 138, 61, 1);
+$teal-dark: rgba(0, 113, 164, 1);
+$blue-dark: rgba(0, 64, 221, 1);
+$indigo-dark: rgba(54, 52, 163, 1);
+$purple-dark: rgba(137, 68, 171, 1);
+$pink-dark: rgba(211, 15, 69, 1);
+$gray-2-dark: rgba(99, 99, 102, 1);
+$gray-3-dark: rgba(72, 72, 74, 1);
+$gray-4-dark: rgba(58, 58, 60, 1);
+$gray-5-dark: rgba(44, 44, 46, 1);
+$gray-6-dark: rgba(28, 28, 30, 1);
+
+$full: 1000rem;
+
+$box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.05);
